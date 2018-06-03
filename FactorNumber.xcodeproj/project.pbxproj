@@ -7,17 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		080460A820C3850B0082B269 /* samuel-zeller-242172-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 080460A720C3850B0082B269 /* samuel-zeller-242172-unsplash.jpg */; };
 		08D3CCF420C2890400A3A4DE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08D3CCF320C2890400A3A4DE /* AppDelegate.swift */; };
 		08D3CCF620C2890400A3A4DE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08D3CCF520C2890400A3A4DE /* ViewController.swift */; };
 		08D3CCF920C2890400A3A4DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08D3CCF720C2890400A3A4DE /* Main.storyboard */; };
 		08D3CCFB20C2890700A3A4DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08D3CCFA20C2890700A3A4DE /* Assets.xcassets */; };
 		08D3CCFE20C2890700A3A4DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08D3CCFC20C2890700A3A4DE /* LaunchScreen.storyboard */; };
-		08D3CD0820C28A2300A3A4DE /* jeshoots-com-436787-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 08D3CD0720C28A2300A3A4DE /* jeshoots-com-436787-unsplash.jpg */; };
 		08D3CD0A20C28B0400A3A4DE /* if_Tax_center_132003.png in Resources */ = {isa = PBXBuildFile; fileRef = 08D3CD0920C28B0400A3A4DE /* if_Tax_center_132003.png */; };
 		08D3CD0C20C28C3A00A3A4DE /* if_Cross_Cricle_657912.png in Resources */ = {isa = PBXBuildFile; fileRef = 08D3CD0B20C28C3A00A3A4DE /* if_Cross_Cricle_657912.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		080460A720C3850B0082B269 /* samuel-zeller-242172-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "samuel-zeller-242172-unsplash.jpg"; sourceTree = "<group>"; };
 		08D3CCF020C2890400A3A4DE /* FactorNumber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FactorNumber.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08D3CCF320C2890400A3A4DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		08D3CCF520C2890400A3A4DE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -25,7 +26,6 @@
 		08D3CCFA20C2890700A3A4DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		08D3CCFD20C2890700A3A4DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		08D3CCFF20C2890700A3A4DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		08D3CD0720C28A2300A3A4DE /* jeshoots-com-436787-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "jeshoots-com-436787-unsplash.jpg"; path = "../../../Downloads/jeshoots-com-436787-unsplash.jpg"; sourceTree = "<group>"; };
 		08D3CD0920C28B0400A3A4DE /* if_Tax_center_132003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = if_Tax_center_132003.png; sourceTree = "<group>"; };
 		08D3CD0B20C28C3A00A3A4DE /* if_Cross_Cricle_657912.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = if_Cross_Cricle_657912.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -63,7 +63,7 @@
 				08D3CCF320C2890400A3A4DE /* AppDelegate.swift */,
 				08D3CCF520C2890400A3A4DE /* ViewController.swift */,
 				08D3CCF720C2890400A3A4DE /* Main.storyboard */,
-				08D3CD0720C28A2300A3A4DE /* jeshoots-com-436787-unsplash.jpg */,
+				080460A720C3850B0082B269 /* samuel-zeller-242172-unsplash.jpg */,
 				08D3CD0920C28B0400A3A4DE /* if_Tax_center_132003.png */,
 				08D3CD0B20C28C3A00A3A4DE /* if_Cross_Cricle_657912.png */,
 				08D3CCFA20C2890700A3A4DE /* Assets.xcassets */,
@@ -133,9 +133,9 @@
 			files = (
 				08D3CD0A20C28B0400A3A4DE /* if_Tax_center_132003.png in Resources */,
 				08D3CD0C20C28C3A00A3A4DE /* if_Cross_Cricle_657912.png in Resources */,
+				080460A820C3850B0082B269 /* samuel-zeller-242172-unsplash.jpg in Resources */,
 				08D3CCFE20C2890700A3A4DE /* LaunchScreen.storyboard in Resources */,
 				08D3CCFB20C2890700A3A4DE /* Assets.xcassets in Resources */,
-				08D3CD0820C28A2300A3A4DE /* jeshoots-com-436787-unsplash.jpg in Resources */,
 				08D3CCF920C2890400A3A4DE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
